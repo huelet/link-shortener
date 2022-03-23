@@ -1,2 +1,3 @@
 # link-shortener
-A quick, light link shortener for Huelet
+A quick, light link shortener for Huelet  
+More info coming soon
